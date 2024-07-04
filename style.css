@@ -231,7 +231,7 @@
     pointer-events: none;
     transition: 0.5s ease-in-out;
   }
-  .overlayactive {
+  .overlayActive {
     opacity: 1;
     pointer-events: initial;
   }
